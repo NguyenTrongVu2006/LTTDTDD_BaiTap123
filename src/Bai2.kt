@@ -4,5 +4,5 @@ fun main() {
     for (i in 1..100) {
         tong += i
     }
-    println("Tổng : 1 + 2 + ... + 100 = $tong")
+    print("Tổng : 1 + 2 + ... + 100 = $tong")
 }

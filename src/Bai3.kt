@@ -9,12 +9,11 @@ fun main() {
 
     // while
     print("Dùng while: ")
-    var num = 1
-    while (num <= 20) {
-        if (num % 2 == 0) {
-            print("$num ")
+    var soChan = 1
+    while (soChan <= 20) {
+        if (soChan % 2 == 0) {
+            print("$soChan ")
         }
-        num++
+        soChan++
     }
-    println()
 }
